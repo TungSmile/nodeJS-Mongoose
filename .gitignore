@@ -1,0 +1,30 @@
+# Thư mục node_modules
+node_modules/
+
+# Các file log
+logs/*.log
+
+# File PID
+*.pid
+
+# File tạm thời
+tmp/
+
+# Cache của trình quản lý gói
+.npm/
+.yarn/
+
+# File env
+.env
+
+# File cache của Babel
+.babel-cache/
+
+# File cache của Jest
+.jest/
+
+# File coverage
+coverage/
+
+# other
+otp/
